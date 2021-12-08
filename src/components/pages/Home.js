@@ -1,7 +1,7 @@
 
 function Home(){
 
-    return <h1>Página Home</h1>
+    return <h1>Página Home da Gabriela</h1>
 }
 export default Home
 
