@@ -6,7 +6,7 @@ import Sobre from './components/pages/Sobre'
 import Contato from './components/pages/Contato'
 import NovoProjeto from './components/pages/NovoProjeto'
 
-import Container from './components/layout/Container'
+import Container from './layout/Container'
 
 function App() {
 
